@@ -1,0 +1,146 @@
+body {
+
+	background-color: #0f1014;
+	font-size: 18px;
+	text-align: start;
+	line-height: 28px;
+	font-family: Inter, sans-serif;
+}
+
+.container-table {
+	margin: 50px 50px;
+	padding-left: 800px;
+}
+
+.description {
+	color: #707a94;
+	font-size: 16px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+table {
+	color: white;
+}
+
+@keyframes moveUp {
+	0% {
+		transform: translateY(0);
+	}
+
+	100% {
+		transform: translateY(-100%);
+	}
+}
+
+/* Apply the animation to the container */
+._1DVO_OLUS1_6RZqVVhIZN7 {
+	opacity: 0.1;
+	animation: moveUp 5s linear infinite;
+	overflow: hidden;
+	position: relative;
+	height: 100px;
+	width: 100px;
+	
+}
+
+/* Style for the individual images */
+._1DVO_OLUS1_6RZqVVhIZN7 img {
+	display: block;
+	width: 5px;
+	height: auto;
+}
+
+._3v7glN6Cnyq2aSiLHhkAlX {
+	padding-right: 800px;
+}
+
+.f3a3zKu077MMY6AYttBQK {
+	padding-top: 100px;
+	padding-left: 50px;
+	position: absolute;
+	top: 0;
+	z-index: 2;
+}
+
+.ON_SURFACE_DEFAULT {
+	color: var(--ON-SURFACE-DEFAULT);
+}
+
+.subscribe-heading {
+	color: white;
+	font-family: Inter, sans-serif;
+	font-size: 30px;
+	line-height: 24px;
+	text-align: start;
+}
+
+.subscribe-description {
+	color: white;
+	font-family: Inter, sans-serif;
+	font-size: 15px;
+	line-height: 24px;
+	text-align: start;
+}
+
+.pricing-container {
+	padding-left: 30px;
+	margin-left: 800px;
+	display: flex;
+	flex-direction: row;
+}
+
+.price-container {
+
+	height: 100px;
+	width: 200px;
+	border: 1px solid white;
+	border-radius: 10px;
+
+}
+
+.blank-box {
+	width: 15px;
+}
+
+.price-header {
+	color: #ffcc75;
+	font-weight: bold;
+	padding-left: 10px;
+	padding-top: 10px;
+	font: size 20px;
+	line-height: 32px;
+
+}
+
+.pricing {
+	color: #e1e6f0;
+	padding-left: 10px;
+	font-size: 28px;
+	font-weight: bold;
+	line-height: 32px;
+}
+
+.subscribe-button {
+
+	padding-top: 10px;
+	margin-left: 830px;
+
+}
+
+.subscribe-btn {
+	color: white;
+	font-size: 20px;
+	font-family: Inter, sans-serif;
+	font-weight: bold;
+	line-height: 24px;
+	background-color: #084fd4;
+	width: 660px;
+	border: 1px solid white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
